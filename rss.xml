@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[surpassbusinessalliance.com]]></title>
         <description><![CDATA[surpassbusinessalliance.com]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/surpassbusinessalliance-com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Apr 2016 17:23:22 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 03 Apr 2016 17:24:48 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/surpassbusinessalliance-com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f0145012-3779-4c9f-a578-078712b5a0de.png">]]></description>
+            <link>https://thegrid.ai/surpassbusinessalliance-com/happy-think-business-thursday-the-topic-this-week-is-busi/index.html</link>
+            <guid isPermaLink="false">54d7becc-4634-4264-b9a0-238a6cd64c62</guid>
+            <pubDate>Sun, 03 Apr 2016 17:24:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d54b8e41-b231-4c1c-bc15-3530ea8a21f7.jpg">]]></description>
-            <link>undefinedexcited-to-begin-working-with-a-new-area-of-small-business-o/index.html</link>
+            <link>https://thegrid.ai/surpassbusinessalliance-com/excited-to-begin-working-with-a-new-area-of-small-business-o/index.html</link>
             <guid isPermaLink="false">44dbc3d6-62fc-43b0-a355-79adf7801297</guid>
             <pubDate>Sun, 03 Apr 2016 17:22:58 GMT</pubDate>
         </item>
